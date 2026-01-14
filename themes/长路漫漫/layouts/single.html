@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <article class="single-article">
+    <h1>{{ .Title }}</h1>
+    <meta>{{ .Date.Format "2006-01-02" }}</meta>
+    {{ with .Params.categories }}
+      <div class="article-categories">
+        {{ range . }}
+          <a href="{{ "categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+    {{ with .Params.tags }}
+      <div class="article-tags">
+        {{ range . }}
+          <a href="{{ "tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ end }}
+      </div>
+    {{ end }}
+    <content>
+      {{ .Content }}
+    </content>
+  </article>
+{{ end }}
