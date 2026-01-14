@@ -2,38 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Aetheris</title>
-    <link>https://example.org/tags/</link>
+    <link>https://longlong-skyligo.github.io/tags/</link>
     <description>Recent content in Tags on Aetheris</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Jan 2026 09:32:05 +0800</lastBuildDate>
-    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://longlong-skyligo.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>星链</title>
+      <link>https://longlong-skyligo.github.io/tags/%E6%98%9F%E9%93%BE/</link>
+      <pubDate>Wed, 14 Jan 2026 10:00:00 +0800</pubDate>
+      <guid>https://longlong-skyligo.github.io/tags/%E6%98%9F%E9%93%BE/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>伊朗</title>
+      <link>https://longlong-skyligo.github.io/tags/%E4%BC%8A%E6%9C%97/</link>
+      <pubDate>Wed, 14 Jan 2026 10:00:00 +0800</pubDate>
+      <guid>https://longlong-skyligo.github.io/tags/%E4%BC%8A%E6%9C%97/</guid>
+      <description></description>
+    </item>
     <item>
       <title>地缘历史</title>
-      <link>https://example.org/tags/%E5%9C%B0%E7%BC%98%E5%8E%86%E5%8F%B2/</link>
+      <link>https://longlong-skyligo.github.io/tags/%E5%9C%B0%E7%BC%98%E5%8E%86%E5%8F%B2/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>https://example.org/tags/%E5%9C%B0%E7%BC%98%E5%8E%86%E5%8F%B2/</guid>
+      <guid>https://longlong-skyligo.github.io/tags/%E5%9C%B0%E7%BC%98%E5%8E%86%E5%8F%B2/</guid>
       <description></description>
     </item>
     <item>
       <title>金融市场</title>
-      <link>https://example.org/tags/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</link>
+      <link>https://longlong-skyligo.github.io/tags/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>https://example.org/tags/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</guid>
+      <guid>https://longlong-skyligo.github.io/tags/%E9%87%91%E8%9E%8D%E5%B8%82%E5%9C%BA/</guid>
       <description></description>
     </item>
     <item>
       <title>人工智能</title>
-      <link>https://example.org/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+      <link>https://longlong-skyligo.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>https://example.org/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
+      <guid>https://longlong-skyligo.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</guid>
       <description></description>
     </item>
     <item>
       <title>探索者</title>
-      <link>https://example.org/tags/%E6%8E%A2%E7%B4%A2%E8%80%85/</link>
+      <link>https://longlong-skyligo.github.io/tags/%E6%8E%A2%E7%B4%A2%E8%80%85/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>https://example.org/tags/%E6%8E%A2%E7%B4%A2%E8%80%85/</guid>
+      <guid>https://longlong-skyligo.github.io/tags/%E6%8E%A2%E7%B4%A2%E8%80%85/</guid>
       <description></description>
     </item>
   </channel>

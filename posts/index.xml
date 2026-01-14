@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Aetheris</title>
-    <link>https://example.org/posts/</link>
+    <link>https://longlong-skyligo.github.io/posts/</link>
     <description>Recent content in Posts on Aetheris</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 14 Jan 2026 09:32:05 +0800</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jan 2026 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://longlong-skyligo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>伊朗的卫星 vs 墙：一场关于头巾、面包与星链的高科技拉锯战</title>
+      <link>https://longlong-skyligo.github.io/posts/%E4%BC%8A%E6%9C%97%E7%9A%84%E5%8D%AB%E6%98%9Fvs%E5%A2%99/</link>
+      <pubDate>Wed, 14 Jan 2026 10:00:00 +0800</pubDate>
+      <guid>https://longlong-skyligo.github.io/posts/%E4%BC%8A%E6%9C%97%E7%9A%84%E5%8D%AB%E6%98%9Fvs%E5%A2%99/</guid>
+      <description>&lt;p&gt;最近，关于伊朗的消息时常占据国际新闻的头条。但如果你的关注点还停留在&amp;quot;核协议&amp;quot;或者&amp;quot;中东火药桶&amp;quot;这些宏大叙事上，可能就错过了这场大戏中最具戏剧性的部分。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>居中且行</title>
-      <link>https://example.org/posts/%E5%B1%85%E4%B8%AD%E4%B8%94%E8%A1%8C/</link>
+      <link>https://longlong-skyligo.github.io/posts/%E5%B1%85%E4%B8%AD%E4%B8%94%E8%A1%8C/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>https://example.org/posts/%E5%B1%85%E4%B8%AD%E4%B8%94%E8%A1%8C/</guid>
-      <description>&lt;h1 id=&#34;居中且行&#34;&gt;居中且行&lt;/h1&gt;&#xA;&lt;h2 id=&#34;一&#34;&gt;一&lt;/h2&gt;&#xA;&lt;p&gt;算来已有好些年月不曾在自己的小天地里写下些什么了。这些年里，日子像流水般淌过，有时湍急，有时平缓，却总忘了在岸边拾掇些记忆的碎片。近日得闲，重新拾掇起这个小博客，像整理一间久未居住的旧屋，擦去灰尘，摆好家什，倒也有几分亲切。&lt;/p&gt;</description>
+      <guid>https://longlong-skyligo.github.io/posts/%E5%B1%85%E4%B8%AD%E4%B8%94%E8%A1%8C/</guid>
+      <description>&lt;h2 id=&#34;一&#34;&gt;一&lt;/h2&gt;&#xA;&lt;p&gt;算来已有好些年月不曾在自己的小天地里写下些什么了。这些年里，日子像流水般淌过，有时湍急，有时平缓，却总忘了在岸边拾掇些记忆的碎片。近日得闲，重新拾掇起这个小博客，像整理一间久未居住的旧屋，擦去灰尘，摆好家什，倒也有几分亲切。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
