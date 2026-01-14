@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Aetheris</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://example.org/posts/</link>
     <description>Recent content in Posts on Aetheris</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 14 Jan 2026 09:32:05 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>居中且行</title>
-      <link>http://localhost:1313/posts/%E9%95%BF%E8%B7%AF%E6%BC%AB%E6%BC%AB/</link>
+      <link>https://example.org/posts/%E9%95%BF%E8%B7%AF%E6%BC%AB%E6%BC%AB/</link>
       <pubDate>Wed, 14 Jan 2026 09:32:05 +0800</pubDate>
-      <guid>http://localhost:1313/posts/%E9%95%BF%E8%B7%AF%E6%BC%AB%E6%BC%AB/</guid>
+      <guid>https://example.org/posts/%E9%95%BF%E8%B7%AF%E6%BC%AB%E6%BC%AB/</guid>
       <description>&lt;h1 id=&#34;居中且行&#34;&gt;居中且行&lt;/h1&gt;&#xA;&lt;h2 id=&#34;一&#34;&gt;一&lt;/h2&gt;&#xA;&lt;p&gt;算来已有好些年月不曾在自己的小天地里写下些什么了。这些年里，日子像流水般淌过，有时湍急，有时平缓，却总忘了在岸边拾掇些记忆的碎片。近日得闲，重新拾掇起这个小博客，像整理一间久未居住的旧屋，擦去灰尘，摆好家什，倒也有几分亲切。&lt;/p&gt;</description>
     </item>
   </channel>
